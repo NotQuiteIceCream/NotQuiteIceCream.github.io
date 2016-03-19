@@ -6776,9 +6776,19 @@ body {
   background-attachment: fixed;
 }
 /* PINGENDO COMMENT DO NOT REMOVE */
+.ncibody {
+  padding-top: 50px;
+}
 .ncihead {
-  background: white;
+  background: #ffffff;
+}
+.logospace {
+  background: #ffffff;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 .fillspace {
-  background: #00ccff;
+  background: white;
+  opacity: 0.85;
+  padding: 5px;
 }
